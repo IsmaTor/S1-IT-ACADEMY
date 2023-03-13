@@ -1,10 +1,16 @@
-Tasca S1.01. Herència i Polimorfisme
+# Tasca S1.01. Herència i Polimorfisme
 Feta: Rebre una qualificació
+
 Descripció
+
 Utilitza per a tots els exercicis Eclipse o IntelliJ.
+
 No oblidis posar sempre les classes Java dins de packages.
+
 Es recomana crear per cada exercici un package de la següent manera: n1exercici1, n1exercici2, n2exercici1, etc.
+
 Pots construir projectes Maven, Gradle o només Java.
+
 Endavant!
 
 
