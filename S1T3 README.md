@@ -1,9 +1,15 @@
-Tasca S1.03. Java Collections
+# Tasca S1.03. Java Collections
+
 Feta: Rebre una qualificació
+
 Descripció
+
 Utilitza per a tots els exercicis Eclipse o IntelliJ.
+
 No oblidis posar sempre les classes Java dins de packages.
+
 Pots construir projectes Maven, Gradle o només Java.
+
 Endavant!
 
 Nivell 1
