@@ -1,10 +1,15 @@
-Tasca S1.02. Exceptions
+# Tasca S1.02. Exceptions
+
 Feta: Rebre una qualificació
+
 Descripció
 
 Utilitza per a tots els exercicis Eclipse o IntelliJ.
+
 No oblidis posar sempre les classes Java dins de packages.
+
 Pots construir projectes Maven, Gradle o només Java.
+
 Endavant!
 
 
